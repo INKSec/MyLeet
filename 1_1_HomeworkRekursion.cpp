@@ -1,3 +1,5 @@
+// Collatz Problem and print amount of iterations
+
 #include <iostream>
 using namespace std;
 

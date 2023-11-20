@@ -1,3 +1,5 @@
+// Recursive way of getting a numbers power of n
+
 #include <iostream>
 using namespace std;
 
